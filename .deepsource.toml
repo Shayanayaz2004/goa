@@ -6,3 +6,6 @@ name = "go"
   [analyzers.meta]
   import_root = "goa.design/goa/v3"
 
+[[analyzers]]
+name = "secrets"
+
